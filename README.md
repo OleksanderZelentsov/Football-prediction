@@ -17,5 +17,5 @@ Information-analytical system for predicting football match outcomes using machi
 
 Install dependencies:
 
-`ash
 pip install -r requirements.txt
+streamlit run Головна_сторінка.py
